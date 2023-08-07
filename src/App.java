@@ -7,7 +7,7 @@ public class App {
         list = new ArrayList<Node<Integer>>();
     }
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello world!");
+        System.out.println("Tjena Börje!");
     }
 
 
